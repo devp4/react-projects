@@ -1,6 +1,6 @@
-import Counter from "./Basic Counter/components/Counter"
+import Counter from "./Counter"
 
-const Header = () => {
+const CounterHeader = () => {
     return (
     <div>
         <header>
@@ -11,4 +11,4 @@ const Header = () => {
     )
 }
 
-export default Header
+export default CounterHeader

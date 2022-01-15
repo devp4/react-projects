@@ -1,9 +1,9 @@
-import Header from "./Basic Counter/components/Header";
+import CounterHeader from "./components/CounterHeader";
 
 function App() {
   return (
     <div className="App">
-      <Header></Header>
+      <CounterHeader></CounterHeader>
     </div>
   );
 }
